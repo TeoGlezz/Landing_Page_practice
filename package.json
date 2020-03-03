@@ -1,0 +1,28 @@
+{
+  "name": "uv-landing-page",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TeoGlezz/Landing_Page_practice.git"
+  },
+  "keywords": [
+    "GonzalezPonce23"
+  ],
+  "author": "Teo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TeoGlezz/Landing_Page_practice/issues"
+  },
+  "homepage": "https://github.com/TeoGlezz/Landing_Page_practice#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "express": "^4.17.1",
+    "node-sass-middleware": "^0.11.0",
+    "pug": "^2.0.4"
+  }
+}
